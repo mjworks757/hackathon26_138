@@ -1,0 +1,297 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Page-1" id="NYdNEjy2E-pBkt3OlOiE">
+    <mxGraphModel dx="1361" dy="91" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="SxAFQLdds2xngY_iQSWM-114" connectable="0" parent="1" style="group;fontSize=9;fillColor=default;strokeColor=none;labelBackgroundColor=none;fontColor=#143642;" value="" vertex="1">
+          <mxGeometry height="345" width="540" x="1137" y="1105" as="geometry" />
+        </mxCell>
+        <mxCell id="SxAFQLdds2xngY_iQSWM-79" parent="SxAFQLdds2xngY_iQSWM-114" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=12 12;fontSize=9;labelBackgroundColor=none;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;" value="" vertex="1">
+          <mxGeometry height="345" width="540" as="geometry" />
+        </mxCell>
+        <mxCell id="SxAFQLdds2xngY_iQSWM-85" edge="1" parent="SxAFQLdds2xngY_iQSWM-114" source="SxAFQLdds2xngY_iQSWM-80" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=9;labelBackgroundColor=none;strokeColor=#A8201A;fontColor=default;" target="SxAFQLdds2xngY_iQSWM-84" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SxAFQLdds2xngY_iQSWM-83" edge="1" parent="SxAFQLdds2xngY_iQSWM-114" source="SxAFQLdds2xngY_iQSWM-81" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;dashPattern=8 8;fillColor=#FAE5C7;strokeColor=#A8201A;fontSize=9;labelBackgroundColor=none;fontColor=default;" target="SxAFQLdds2xngY_iQSWM-82">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="85" y="115" />
+              <mxPoint x="85" y="115" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SxAFQLdds2xngY_iQSWM-93" connectable="0" parent="SxAFQLdds2xngY_iQSWM-83" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=9;labelBackgroundColor=none;fontColor=#143642;" value="&lt;font&gt;Create Student Record if&amp;nbsp;&lt;/font&gt;&lt;div&gt;&lt;font&gt;Email Address Does&amp;nbsp;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font&gt;Not Exist&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry relative="1" x="0.1476" as="geometry">
+            <mxPoint y="10" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SxAFQLdds2xngY_iQSWM-82" parent="SxAFQLdds2xngY_iQSWM-114" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=none;verticalAlign=top;aspect=fixed;imageAspect=0;image=data:image/png,iVBORw0KGgoAAAANSUhEUgAAAHoAAABBCAYAAAAe5LCKAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAeiSURBVHhe7ZptjFxVGcen8iK+YqD3OXd2axeRYIAQKmgUUYiYzjnn3pnZHbIDVEoADRVCDEg1JAbcGIyitakKJtoP8kFCQ8VggEgwBjUGNsEq4UNRaTQSEkSIVYsvdHd2/uacdu6e88zM7sx07nbKnl/yZHbv8z8v9/733Dn3uVsoBAKBQCAQCAQCgUAgEAgEAoFAIBAIHEtgauIsTI3rXGJyPGk75h43n66mk/6aiXfxOQcGAFrsmCsRRjVQpgv5nAMDEIxeJQSjVwnc6KakfVD0wFEJTbvnSrQQjM4BbjRUfA/XrBSoF45rSJoLRudAMHqVcDSMxkzhTSgU1rQdD0bnx0oajS3Ft0LTvU1J/4CiF5DQZ7x8MDo/VtRoTXe5Y5mNF6rxB7L8KjAa1eL1UPSlLCriHK7pBsrF85GIb2VxXRwhEd9EPYozTUp3oHbKOr9lD0YjFV9GQvdkMRW9181zUBGf9vQp1bKcoseY0UASXZvlezAa1fhir/8s4sVPLb6CRFyLenG92zZPkIgd0PGuLMrFj3KNAbq4xz8/cQXXdAP16O24jE5HQnuND5iZOAlSHDAe2fxk8WONEs2huvb9vO3yRiv6sz+x+BI3zzn8iLSo17QtyyXx591cQ9L/MDV2ZpbvxWgd3eTml4kGlPgJyvkbDknPe/NO6SquMRyJ0S2gxTP2c+aS46FoDxLxOKbXvQXaPqI+Ohyjq+Ljbp4DTT/y9K7RZhOWxlsho1mo6Ge8rxyMttEo0atIx89z+xk2R9Ho36BMn0QqtiMRO6HoB8MxuiIudfOcpVb0cgxi9EKJXoIW92WhxENQ9JKrOXRetM/81bt9DZMVNToRT9tPY7QWT6F+9olQYh8mxzZAiZ2YjDbwNnkY3X1FXzFxGsrxrYshbvLaDmA0JD3u5q1mywUnIKEZV2e1icj2Ay7YLN6GtFiz+xFJ34WmryGJN2NTca3N16PYm3cSf87cnWyuQpvMsWaJXmFj3ee0uSEbq4vRmF7/HqTxjVBiOzR9B4m4DVNjF7bGcTEGL/5csD+ba9f67PTomofRXVc0auuUl5O0353UsIxuASl+zbS7vLz5KtHxrU1Jf3d1rViQ0b/NvgJV8SH3+Lyk+ewCy2iWt+MBJf6ajdlmtL3tbjP7Cd7O5qV4ll+Dgejb6OW/o1fWaL2E0WxVQ5K95dncTOF46PgBN98tkNKj7u/zZpP3/cIJtp9ejJbU3WgtnuV6HvMlet3ccVp9DETfRifLGt391p2H0UutaE13MO3vFnPiTjfXioa5qEr8qSnpNZ5rhbeiNT0GSa/MbfRXZFPSv8xxGwntXRzXN9rR74emh6HE/ZC0l+cbJTqA2nj783Gv5GD06KxoJX7qaZX4sT1eL66f30ivu7lDq4a+iPrpJ1vNNRMnoRxfvSDpVVd3WJut6GysATdjVms2kVed8c5MUyisQTWuz5fYtdBih99bH/Rt9DHyHY2KuLztlefhkisSut09bnMV2sT7MKBWPL9Riv7jat0VnekGNNo+Dagz3sx1Bmj6tqeV9Eeu6Zm+jT6SgkkeRpsLVY5vzyIVd0LREwdL1GRjvWBq7bYPKX7O+viVOwYHidju6oe5ok0Vj2tamGvtam3Vq372iVzXE30bXY0vdvOclf6O7iUakl5zS5LmhYo3hopuc8fgYJI+4eqHuqJT8SmuaYGptWd645p3A5/tvPqXpW+jK7TRzXOgooc8vaa7stzKG92EEk/yFweQ9KI3hqbr3Tyn7fFqmCt6iYKJ2UuwcfM0Wjzl5bVf5OBA0R/YCd+c5XIwuiHpAHT8RBaKHrHVoUR8AbXx8zoVDyAj75EGiu7mGheUxXWufqgreoSM/p6Xl2K2U7XGgAp92Kwi/0ScW2YORkOLPW6+F6DFD90+GiXaj/KhKhjHVpokPe3q35hGp0Xp5q3GlOjYgKiOvc/8Y6GnM3XoLRdkt7iRMTqN6x3O6ZeYXneKpztUQ97JtV1u3d4fgynWuPkWo2u0KRNKeoafLCT9DUo8ePiNyS/4M5/VpPFWr69RMdoYKOk5Pt+mjF42m0ezQTKPYFD0e64x0XFFa7rX1TRM+VSLbdC0FSnd0jrPkTXaapJog5k4P+GlwpjvFt9tPyNitAFJ9BHzPpzPu0t4X0fWaL6iy8VSh3Y2bLWt9RJklI02oBJd1GS71W4BRQ+a/4Zo62OEjDagEquFEu3n83fDVszK9FXvWIcVbftL6G7e3sQxZbQB1VPfYd/mKNrTKNFBp13T1nQ17TZ/2bxdC0yPX5rVf61ePN+30WW6oSHpYCuQxrNuvl9QEwQdfwOS/uKuXEj6JzTtwiSdi1r8QXfMpqT/djTalC7LomJqCea275zni5nRSXHWm381rvN+Wpjatne9lHgZMzkVTLph/1/psngCk+I0bBYEtD/G9EtPRqOwBrvrx2WBzk8A/WL7nY4jez5XvnvMNdIa6I65u27f/Q6CmS+b/xFft54Y1Og86MXowIAEo1cJwehVQpvRJfqtqU8flVD0dVOMCEbnADd61CIYPSSC0auEYPQqAZXiRUjHbhzZuJIEn3MgEAgEAoFAIBAIBAKBQCAQCAQCgUDgDcb/AQoL/AMkroAmAAAAAElFTkSuQmCC;fontSize=9;align=center;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;" value="Student Reports Entity" vertex="1">
+          <mxGeometry height="25" width="46.93" x="61.53" y="165" as="geometry" />
+        </mxCell>
+        <mxCell id="SxAFQLdds2xngY_iQSWM-88" edge="1" parent="SxAFQLdds2xngY_iQSWM-114" source="SxAFQLdds2xngY_iQSWM-84" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=9;labelBackgroundColor=none;strokeColor=#A8201A;fontColor=default;" target="SxAFQLdds2xngY_iQSWM-87" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SxAFQLdds2xngY_iQSWM-90" connectable="0" parent="SxAFQLdds2xngY_iQSWM-114" style="group;fontSize=9;labelBackgroundColor=none;fontColor=#143642;" value="" vertex="1">
+          <mxGeometry height="90" width="150" x="10" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="SxAFQLdds2xngY_iQSWM-80" parent="SxAFQLdds2xngY_iQSWM-90" style="rounded=0;whiteSpace=wrap;html=1;fontSize=9;labelBackgroundColor=none;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;" value="&lt;span&gt;Retrieve email from Parent/Student with subject starting with &quot;Evaluation Report&quot; and download attached PDF&lt;/span&gt;" vertex="1">
+          <mxGeometry height="60" width="150" as="geometry" />
+        </mxCell>
+        <mxCell id="SxAFQLdds2xngY_iQSWM-81" parent="SxAFQLdds2xngY_iQSWM-90" style="text;html=1;whiteSpace=wrap;strokeColor=#36393d;fillColor=#eeeeee;align=center;verticalAlign=middle;rounded=0;fontSize=9;labelBackgroundColor=none;" value="&lt;font&gt;Wellness AI Fetch Stage&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="95" x="27.5" y="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SxAFQLdds2xngY_iQSWM-91" connectable="0" parent="SxAFQLdds2xngY_iQSWM-114" style="group;fontSize=9;labelBackgroundColor=none;fontColor=#143642;" value="" vertex="1">
+          <mxGeometry height="102.5" width="150" x="190" y="12.5" as="geometry" />
+        </mxCell>
+        <mxCell id="SxAFQLdds2xngY_iQSWM-84" parent="SxAFQLdds2xngY_iQSWM-91" style="rounded=0;whiteSpace=wrap;html=1;fontSize=9;labelBackgroundColor=none;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;" value="&lt;font&gt;Use the Student Report Card Evaluator Agent to summarize student performance and extract attendance and academic percentage.&lt;/font&gt;" vertex="1">
+          <mxGeometry height="75" width="150" as="geometry" />
+        </mxCell>
+        <mxCell id="SxAFQLdds2xngY_iQSWM-86" parent="SxAFQLdds2xngY_iQSWM-91" style="text;html=1;whiteSpace=wrap;strokeColor=#36393d;fillColor=#eeeeee;align=center;verticalAlign=middle;rounded=0;fontSize=9;labelBackgroundColor=none;" value="&lt;font&gt;Extract Information Stage&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="95" x="27.5" y="75" as="geometry" />
+        </mxCell>
+        <mxCell id="SxAFQLdds2xngY_iQSWM-92" connectable="0" parent="SxAFQLdds2xngY_iQSWM-114" style="group;fontSize=9;labelBackgroundColor=none;fontColor=#143642;" value="" vertex="1">
+          <mxGeometry height="137.5" width="150" x="380" y="12.5" as="geometry" />
+        </mxCell>
+        <mxCell id="SxAFQLdds2xngY_iQSWM-87" parent="SxAFQLdds2xngY_iQSWM-92" style="rounded=0;whiteSpace=wrap;html=1;fontSize=9;labelBackgroundColor=none;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;" value="&lt;div class=&quot;qMYqUG_convSearchResultHighlightRoot&quot;&gt;&lt;div class=&quot;&quot; data-turn-id-container=&quot;request-WEB:103101d7-546f-45bd-a846-0f679412f3bb-21&quot; data-is-intersecting=&quot;true&quot;&gt;&lt;section class=&quot;text-token-text-primary w-full focus:outline-none has-data-writing-block:pointer-events-none [&amp;amp;:has([data-writing-block])&amp;gt;*]:pointer-events-auto R6Vx5W_threadScrollVars scroll-mb-[calc(var(--scroll-root-safe-area-inset-bottom,0px)+var(--thread-response-height))] scroll-mt-[calc(var(--header-height)+min(200px,max(70px,20svh)))]&quot; dir=&quot;auto&quot; data-turn-id=&quot;request-WEB:103101d7-546f-45bd-a846-0f679412f3bb-21&quot; data-turn-id-container=&quot;request-WEB:103101d7-546f-45bd-a846-0f679412f3bb-21&quot; data-testid=&quot;conversation-turn-44&quot; data-turn=&quot;assistant&quot;&gt;&lt;div class=&quot;text-base my-auto mx-auto pb-10 [--thread-content-margin:var(--thread-content-margin-xs,calc(var(--spacing)*4))] @w-sm/main:[--thread-content-margin:var(--thread-content-margin-sm,calc(var(--spacing)*6))] @w-lg/main:[--thread-content-margin:var(--thread-content-margin-lg,calc(var(--spacing)*16))] px-(--thread-content-margin)&quot;&gt;&lt;div data-conversation-screenshot-content=&quot;&quot; class=&quot;[--thread-content-max-width:40rem] @w-lg/main:[--thread-content-max-width:48rem] mx-auto max-w-(--thread-content-max-width) flex-1 group/turn-messages focus-visible:outline-hidden relative flex w-full min-w-0 flex-col agent-turn&quot;&gt;&lt;div class=&quot;flex max-w-full flex-col gap-4 grow&quot;&gt;&lt;div data-message-author-role=&quot;assistant&quot; data-message-id=&quot;162dbbc5-d82e-471e-a539-59380b0dc908&quot; dir=&quot;auto&quot; data-message-model-slug=&quot;gpt-5-5&quot; class=&quot;min-h-8 text-message relative flex w-full flex-col items-end gap-2 text-start break-words whitespace-normal outline-none keyboard-focused:focus-ring [.text-message+&amp;amp;]:mt-1&quot; data-turn-start-message=&quot;true&quot; tabindex=&quot;0&quot;&gt;&lt;div class=&quot;flex w-full flex-col gap-1 empty:hidden&quot;&gt;&lt;div class=&quot;markdown prose dark:prose-invert wrap-break-word w-full light markdown-new-styling&quot;&gt;&lt;p data-start=&quot;0&quot; data-end=&quot;222&quot; data-is-last-node=&quot;&quot; data-is-only-node=&quot;&quot; class=&quot;PDq2pG_selectionAnchorContainer&quot;&gt;&lt;span data-start=&quot;0&quot; data-end=&quot;222&quot; data-is-last-node=&quot;&quot; data-is-only-node=&quot;&quot;&gt;If academic or attendance % is below 40%, send a WhatsApp questionnaire to parent/student. Upon receiving completed questionnaire, Generate Summary &amp;amp; Analysis Agent creates a student wellness summary.&lt;/span&gt;&lt;span aria-hidden=&quot;true&quot; class=&quot;PDq2pG_selectionAnchor&quot;&gt;&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;z-0 flex min-h-[46px] justify-start&quot;&gt;&lt;/div&gt;&lt;div class=&quot;mt-3 w-full empty:hidden&quot;&gt;&lt;div class=&quot;text-center&quot;&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/section&gt;&lt;/div&gt;&lt;/div&gt;&lt;div aria-hidden=&quot;true&quot; class=&quot;pointer-events-none -mt-px h-px translate-y-[calc(var(--scroll-root-safe-area-inset-bottom)-14*var(--spacing))]&quot;&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="102.0618556701031" width="150" as="geometry" />
+        </mxCell>
+        <mxCell id="SxAFQLdds2xngY_iQSWM-89" parent="SxAFQLdds2xngY_iQSWM-92" style="text;html=1;whiteSpace=wrap;strokeColor=#36393d;fillColor=#eeeeee;align=center;verticalAlign=middle;rounded=0;fontSize=9;labelBackgroundColor=none;" value="&lt;font&gt;Notification Stage&lt;/font&gt;" vertex="1">
+          <mxGeometry height="21.26288659793815" width="95" x="27.5" y="102.0604548211037" as="geometry" />
+        </mxCell>
+        <mxCell id="SxAFQLdds2xngY_iQSWM-94" parent="SxAFQLdds2xngY_iQSWM-114" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=none;verticalAlign=top;aspect=fixed;imageAspect=0;image=data:image/png,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;fontSize=9;align=center;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;" value="Student Performance Details &#xa;Entity" vertex="1">
+          <mxGeometry height="30" width="56.31" x="220" y="125" as="geometry" />
+        </mxCell>
+        <mxCell id="SxAFQLdds2xngY_iQSWM-102" connectable="0" parent="SxAFQLdds2xngY_iQSWM-114" style="group;fontSize=9;labelBackgroundColor=none;fontColor=#143642;" value="" vertex="1">
+          <mxGeometry height="102.5" width="150" x="380" y="185" as="geometry" />
+        </mxCell>
+        <mxCell id="SxAFQLdds2xngY_iQSWM-103" parent="SxAFQLdds2xngY_iQSWM-102" style="rounded=0;whiteSpace=wrap;html=1;fontSize=9;labelBackgroundColor=none;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;" value="&lt;font&gt;Use Student Report Card Evaluator Agent to summarize student performance &amp;amp; extract attendance and academic percentage.&lt;/font&gt;" vertex="1">
+          <mxGeometry height="75" width="150" as="geometry" />
+        </mxCell>
+        <mxCell id="SxAFQLdds2xngY_iQSWM-104" parent="SxAFQLdds2xngY_iQSWM-102" style="text;html=1;whiteSpace=wrap;strokeColor=#36393d;fillColor=#eeeeee;align=center;verticalAlign=middle;rounded=0;fontSize=9;labelBackgroundColor=none;" value="&lt;font&gt;Update Entities Stage&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="95" x="27.5" y="75" as="geometry" />
+        </mxCell>
+        <mxCell id="SxAFQLdds2xngY_iQSWM-106" edge="1" parent="SxAFQLdds2xngY_iQSWM-114" source="SxAFQLdds2xngY_iQSWM-103" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;dashed=1;dashPattern=8 8;fillColor=#FAE5C7;strokeColor=#A8201A;fontSize=9;labelBackgroundColor=none;fontColor=default;" target="SxAFQLdds2xngY_iQSWM-94">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="418" y="165" />
+              <mxPoint x="328" y="165" />
+              <mxPoint x="328" y="185" />
+              <mxPoint x="248" y="185" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SxAFQLdds2xngY_iQSWM-108" edge="1" parent="SxAFQLdds2xngY_iQSWM-114" source="SxAFQLdds2xngY_iQSWM-103" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=9;labelBackgroundColor=none;strokeColor=#A8201A;fontColor=default;" target="SxAFQLdds2xngY_iQSWM-107" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SxAFQLdds2xngY_iQSWM-110" connectable="0" parent="SxAFQLdds2xngY_iQSWM-114" style="group;fontSize=9;labelBackgroundColor=none;fontColor=#143642;" value="" vertex="1">
+          <mxGeometry height="80" width="300" x="10" y="235" as="geometry" />
+        </mxCell>
+        <mxCell id="SxAFQLdds2xngY_iQSWM-107" parent="SxAFQLdds2xngY_iQSWM-110" style="rounded=0;whiteSpace=wrap;html=1;fontSize=9;labelBackgroundColor=none;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;" value="&lt;font&gt;If the Wellness Summary is &quot;NA&quot;, generate and email the report using the Top Performer Report Agent. Otherwise, use the Low Performer Report Agent to generate and email a personalized report to the parent/student.&lt;/font&gt;" vertex="1">
+          <mxGeometry height="57.14285714285714" width="300" as="geometry" />
+        </mxCell>
+        <mxCell id="SxAFQLdds2xngY_iQSWM-109" parent="SxAFQLdds2xngY_iQSWM-110" style="text;html=1;whiteSpace=wrap;strokeColor=#36393d;fillColor=#eeeeee;align=center;verticalAlign=middle;rounded=0;fontSize=9;labelBackgroundColor=none;" value="&lt;font&gt;Generate and Send Report Stage&lt;/font&gt;" vertex="1">
+          <mxGeometry height="22.857142857142854" width="189.99999999999997" x="54.99610389610389" y="57.14285714285714" as="geometry" />
+        </mxCell>
+        <mxCell id="SxAFQLdds2xngY_iQSWM-105" edge="1" parent="SxAFQLdds2xngY_iQSWM-114" source="SxAFQLdds2xngY_iQSWM-89" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;fontSize=9;labelBackgroundColor=none;strokeColor=#A8201A;fontColor=default;" target="SxAFQLdds2xngY_iQSWM-103">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="455" y="195" />
+              <mxPoint x="455" y="195" />
+            </Array>
+            <mxPoint x="455.090909090909" y="215" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SxAFQLdds2xngY_iQSWM-14" edge="1" parent="1" source="SxAFQLdds2xngY_iQSWM-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=9;labelBackgroundColor=none;strokeColor=#A8201A;fontColor=default;" target="SxAFQLdds2xngY_iQSWM-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wHs1l39DfovBTX2fj1Df-1" connectable="0" parent="SxAFQLdds2xngY_iQSWM-14" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;Call Maestro Case&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 9px;&quot;&gt;Solution&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry relative="1" x="0.2771" y="2" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SxAFQLdds2xngY_iQSWM-6" parent="1" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=none;verticalAlign=top;aspect=fixed;imageAspect=0;image=data:image/png,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;fontSize=9;align=center;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;" value="Case Management &#xa;Entity" vertex="1">
+          <mxGeometry height="30" width="56.31" x="1017" y="1132.5" as="geometry" />
+        </mxCell>
+        <mxCell id="SxAFQLdds2xngY_iQSWM-9" edge="1" parent="1" source="SxAFQLdds2xngY_iQSWM-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=9;labelBackgroundColor=none;strokeColor=#A8201A;fontColor=default;" target="SxAFQLdds2xngY_iQSWM-6" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SxAFQLdds2xngY_iQSWM-10" connectable="0" parent="SxAFQLdds2xngY_iQSWM-9" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=9;labelBackgroundColor=none;fontColor=#143642;" value="&lt;font&gt;Records Inserted&lt;/font&gt;" vertex="1">
+          <mxGeometry relative="1" x="-0.1227" y="-2" as="geometry">
+            <mxPoint x="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SxAFQLdds2xngY_iQSWM-8" parent="1" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/home_page.svg;fontSize=9;labelBackgroundColor=none;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;" value="&lt;font&gt;Parent, Child &amp;amp;&amp;nbsp;&lt;/font&gt;&lt;div&gt;&lt;font&gt;Teacher Concerns Form&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="45" width="50" x="887" y="1125" as="geometry" />
+        </mxCell>
+        <mxCell id="SxAFQLdds2xngY_iQSWM-67" edge="1" parent="1" source="SxAFQLdds2xngY_iQSWM-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#008a00;strokeColor=#005700;fontSize=9;labelBackgroundColor=none;fontColor=default;" target="SxAFQLdds2xngY_iQSWM-66">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SxAFQLdds2xngY_iQSWM-68" connectable="0" parent="SxAFQLdds2xngY_iQSWM-67" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=9;labelBackgroundColor=none;fontColor=#143642;" value="No" vertex="1">
+          <mxGeometry relative="1" x="0.0636" y="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SxAFQLdds2xngY_iQSWM-11" parent="1" style="rhombus;whiteSpace=wrap;html=1;fillColor=#008a00;strokeColor=#005700;fontSize=9;labelBackgroundColor=none;fontColor=#ffffff;" value="&lt;font&gt;Wellness&lt;/font&gt;&lt;div&gt;&lt;font&gt;CaseType&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="40" width="80" x="1005.1500000000001" y="1257.5" as="geometry" />
+        </mxCell>
+        <mxCell id="SxAFQLdds2xngY_iQSWM-12" edge="1" parent="1" source="SxAFQLdds2xngY_iQSWM-11" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#005700;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=9;fillColor=#008a00;labelBackgroundColor=none;fontColor=default;" target="SxAFQLdds2xngY_iQSWM-79" value="Yes">
+          <mxGeometry relative="1" x="-1" as="geometry">
+            <mxPoint x="1142" y="1135" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SxAFQLdds2xngY_iQSWM-71" edge="1" parent="1" source="SxAFQLdds2xngY_iQSWM-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#FAE5C7;strokeColor=#A8201A;fontSize=9;labelBackgroundColor=none;fontColor=default;" target="SxAFQLdds2xngY_iQSWM-116">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1030.142857142857" y="1403.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SxAFQLdds2xngY_iQSWM-72" connectable="0" parent="SxAFQLdds2xngY_iQSWM-71" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=9;labelBackgroundColor=none;fontColor=#143642;" value="Yes" vertex="1">
+          <mxGeometry relative="1" x="0.187" y="3" as="geometry">
+            <mxPoint y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SxAFQLdds2xngY_iQSWM-162" edge="1" parent="1" source="SxAFQLdds2xngY_iQSWM-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#FAE5C7;strokeColor=#A8201A;fontSize=9;labelBackgroundColor=none;fontColor=default;" target="SxAFQLdds2xngY_iQSWM-161">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SxAFQLdds2xngY_iQSWM-163" connectable="0" parent="SxAFQLdds2xngY_iQSWM-162" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=9;labelBackgroundColor=none;fontColor=#143642;" value="No" vertex="1">
+          <mxGeometry relative="1" x="-0.2898" y="-1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SxAFQLdds2xngY_iQSWM-66" parent="1" style="rhombus;whiteSpace=wrap;html=1;fillColor=#a20025;strokeColor=#6F0000;fontSize=9;labelBackgroundColor=none;fontColor=#ffffff;" value="&lt;font&gt;Safety&lt;/font&gt;&lt;div&gt;&lt;font&gt;CaseType&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="40" width="80" x="867" y="1310" as="geometry" />
+        </mxCell>
+        <mxCell id="SxAFQLdds2xngY_iQSWM-74" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=9;labelBackgroundColor=none;strokeColor=#A8201A;fontColor=default;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1030.125" y="1460" as="sourcePoint" />
+            <mxPoint x="1030.142857142857" y="1460" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SxAFQLdds2xngY_iQSWM-115" connectable="0" parent="1" style="group;fontSize=9;labelBackgroundColor=none;fontColor=#143642;" value="" vertex="1">
+          <mxGeometry height="440" width="670" x="1017" y="1478" as="geometry" />
+        </mxCell>
+        <mxCell id="SxAFQLdds2xngY_iQSWM-116" parent="SxAFQLdds2xngY_iQSWM-115" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=12 12;fontSize=9;labelBackgroundColor=none;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;" value="" vertex="1">
+          <mxGeometry height="440" width="670" as="geometry" />
+        </mxCell>
+        <mxCell id="SxAFQLdds2xngY_iQSWM-122" connectable="0" parent="SxAFQLdds2xngY_iQSWM-115" style="group;fontSize=9;labelBackgroundColor=none;fontColor=#143642;" value="" vertex="1">
+          <mxGeometry height="200" width="186.11111111111114" x="12.40740740740741" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="SxAFQLdds2xngY_iQSWM-123" parent="SxAFQLdds2xngY_iQSWM-122" style="rounded=0;whiteSpace=wrap;html=1;fontSize=9;labelBackgroundColor=none;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;" value="&lt;span data-teams=&quot;true&quot;&gt;&lt;font&gt;&lt;b&gt;Includes two tasks:&lt;/b&gt;&lt;br&gt;First, a workflow which fetch all the relevant info from data fabric and also the attachment which user has uploaded&lt;br&gt;&lt;br&gt; Secondly, an Agent that reads the attachment and extract key details from the attachment such as if it has any concerning info or not.&lt;/font&gt;&lt;/span&gt;" vertex="1">
+          <mxGeometry height="160" width="186.11111111111114" as="geometry" />
+        </mxCell>
+        <mxCell id="SxAFQLdds2xngY_iQSWM-124" parent="SxAFQLdds2xngY_iQSWM-122" style="text;html=1;whiteSpace=wrap;strokeColor=#36393d;fillColor=#eeeeee;align=center;verticalAlign=middle;rounded=0;fontSize=9;labelBackgroundColor=none;" value="&lt;font&gt;&lt;span data-teams=&quot;true&quot;&gt;Intake&lt;/span&gt;&amp;nbsp;Stage&lt;/font&gt;" vertex="1">
+          <mxGeometry height="40" width="117.87037037037038" x="34.120370370370374" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="SxAFQLdds2xngY_iQSWM-143" edge="1" parent="SxAFQLdds2xngY_iQSWM-115" source="SxAFQLdds2xngY_iQSWM-123" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=9;labelBackgroundColor=none;strokeColor=#A8201A;fontColor=default;" target="SxAFQLdds2xngY_iQSWM-142" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SxAFQLdds2xngY_iQSWM-145" connectable="0" parent="SxAFQLdds2xngY_iQSWM-115" style="group;fontSize=9;labelBackgroundColor=none;fontColor=#143642;" value="" vertex="1">
+          <mxGeometry height="200" width="348.3147272727273" x="309.99800000000005" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="SxAFQLdds2xngY_iQSWM-142" parent="SxAFQLdds2xngY_iQSWM-145" style="rounded=0;whiteSpace=wrap;html=1;fontSize=9;labelBackgroundColor=none;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;" value="&lt;span data-teams=&quot;true&quot;&gt;&lt;font&gt;&lt;b&gt;Includes two tasks:&lt;/b&gt;&lt;br&gt;&lt;span data-teams=&quot;true&quot;&gt;Digital safety agent which analyse the input details and give a very structured output such as risk score, the action required and if the case needs to be escalated to NGOs/higher authority or if just parents needs to be made aware about the findings.&lt;br&gt;    The output of the agent goes to Action center for human review via UiPath Apps.&amp;nbsp;&lt;br&gt;    Based on the risk score it either goes in &#39;High Risk Path&#39; or &#39;Low Risk Path&#39;&lt;/span&gt;&lt;/font&gt;&lt;/span&gt;" vertex="1">
+          <mxGeometry height="160" width="348.3147272727273" as="geometry" />
+        </mxCell>
+        <mxCell id="SxAFQLdds2xngY_iQSWM-144" parent="SxAFQLdds2xngY_iQSWM-145" style="text;html=1;whiteSpace=wrap;strokeColor=#36393d;fillColor=#eeeeee;align=center;verticalAlign=middle;rounded=0;fontSize=9;labelBackgroundColor=none;" value="&lt;font&gt;&lt;span data-teams=&quot;true&quot;&gt;AI investigation&amp;nbsp;&lt;/span&gt;Stage&lt;/font&gt;" vertex="1">
+          <mxGeometry height="40" width="137.87457954545457" x="105.22007386363636" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="SxAFQLdds2xngY_iQSWM-148" edge="1" parent="SxAFQLdds2xngY_iQSWM-115" source="SxAFQLdds2xngY_iQSWM-142" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.891;exitY=0.996;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;exitPerimeter=0;fontSize=9;labelBackgroundColor=none;strokeColor=#A8201A;fontColor=default;" target="SxAFQLdds2xngY_iQSWM-146">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="620" y="211" />
+              <mxPoint x="529" y="211" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SxAFQLdds2xngY_iQSWM-151" connectable="0" parent="SxAFQLdds2xngY_iQSWM-115" style="group;fontSize=9;labelBackgroundColor=none;fontColor=#143642;" value="" vertex="1">
+          <mxGeometry height="88" width="405.81000000000006" x="274" y="242" as="geometry" />
+        </mxCell>
+        <mxCell id="SxAFQLdds2xngY_iQSWM-146" parent="SxAFQLdds2xngY_iQSWM-151" style="rounded=0;whiteSpace=wrap;html=1;fontSize=9;labelBackgroundColor=none;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;" value="&lt;span data-teams=&quot;true&quot;&gt;&lt;font&gt;The &#39;High risk path&#39; is a UiPath app in Action center which provides details to a specialized reviewer who can review the AI agent&#39;s findings and can make some changes in the existing findings and need to add their own remarks and then choose to either &#39;submit&#39;, &#39;approve&#39; or &#39;escalate&#39;. &#39;submit&#39; which will send a mail to just the user whereas &#39;escalate&#39; will send mail to user as well as concerned authorities.&lt;/font&gt;&lt;/span&gt;" vertex="1">
+          <mxGeometry height="88" width="340" as="geometry" />
+        </mxCell>
+        <mxCell id="SxAFQLdds2xngY_iQSWM-150" parent="SxAFQLdds2xngY_iQSWM-151" style="text;html=1;whiteSpace=wrap;strokeColor=#36393d;fillColor=#eeeeee;align=center;verticalAlign=middle;rounded=0;rotation=-90;fontSize=9;labelBackgroundColor=none;" value="&lt;font&gt;&lt;span data-teams=&quot;true&quot;&gt;Human Review&amp;nbsp;&lt;/span&gt;Stage&lt;/font&gt;" vertex="1">
+          <mxGeometry height="40" width="89.46" x="316.35" y="24.420000000000016" as="geometry" />
+        </mxCell>
+        <mxCell id="SxAFQLdds2xngY_iQSWM-156" connectable="0" parent="SxAFQLdds2xngY_iQSWM-115" style="group;fontSize=9;labelBackgroundColor=none;fontColor=#143642;" value="" vertex="1">
+          <mxGeometry height="68" width="399.49" x="270" y="352" as="geometry" />
+        </mxCell>
+        <mxCell id="SxAFQLdds2xngY_iQSWM-152" parent="SxAFQLdds2xngY_iQSWM-156" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FAE5C7;fontColor=#143642;strokeColor=#0F8B8D;fontSize=9;labelBackgroundColor=none;" value="&lt;span data-teams=&quot;true&quot;&gt;&lt;font&gt;The &#39;Low risk path&#39; is a UiPath app in Action center which provides details to a reviewer who can review the AI agent&#39;s findings and can add their own remarks and then choose to either &#39;submit&#39; which will send a mail to just the user or &#39;escalate&#39; which will send mail to user as well as concerned authorities.&lt;/font&gt;&lt;/span&gt;" vertex="1">
+          <mxGeometry height="68" width="340" as="geometry" />
+        </mxCell>
+        <mxCell id="SxAFQLdds2xngY_iQSWM-153" parent="SxAFQLdds2xngY_iQSWM-156" style="text;html=1;whiteSpace=wrap;strokeColor=#36393d;fillColor=#eeeeee;align=center;verticalAlign=middle;rounded=0;rotation=-90;fontSize=9;labelBackgroundColor=none;" value="&lt;font&gt;&lt;span data-teams=&quot;true&quot;&gt;Low Risk Path Secondary&amp;nbsp;&lt;/span&gt;Stage&lt;/font&gt;" vertex="1">
+          <mxGeometry height="40" width="76.83" x="322.65999999999997" y="12.660000000000025" as="geometry" />
+        </mxCell>
+        <mxCell id="SxAFQLdds2xngY_iQSWM-158" edge="1" parent="SxAFQLdds2xngY_iQSWM-115" source="SxAFQLdds2xngY_iQSWM-146" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=9;labelBackgroundColor=none;strokeColor=#A8201A;fontColor=default;" target="SxAFQLdds2xngY_iQSWM-157">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SxAFQLdds2xngY_iQSWM-160" connectable="0" parent="SxAFQLdds2xngY_iQSWM-115" style="group;fontSize=9;labelBackgroundColor=none;fontColor=#143642;" value="" vertex="1">
+          <mxGeometry height="158" width="186.11" x="20" y="242" as="geometry" />
+        </mxCell>
+        <mxCell id="SxAFQLdds2xngY_iQSWM-157" parent="SxAFQLdds2xngY_iQSWM-160" style="rounded=0;whiteSpace=wrap;html=1;fontSize=9;labelBackgroundColor=none;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;" value="&lt;span data-teams=&quot;true&quot;&gt;&lt;font&gt;Final stage here the emails goes out to the interested parties or concerned authorities based on the action taken by the Human reviewer in the previous step&lt;/font&gt;&lt;/span&gt;" vertex="1">
+          <mxGeometry height="118" width="186.11" as="geometry" />
+        </mxCell>
+        <mxCell id="SxAFQLdds2xngY_iQSWM-159" parent="SxAFQLdds2xngY_iQSWM-160" style="text;html=1;whiteSpace=wrap;strokeColor=#36393d;fillColor=#eeeeee;align=center;verticalAlign=middle;rounded=0;fontSize=9;labelBackgroundColor=none;" value="&lt;font&gt;&lt;span data-teams=&quot;true&quot;&gt;Resolution&amp;nbsp;&lt;/span&gt;Stage&lt;/font&gt;" vertex="1">
+          <mxGeometry height="40" width="117.87037037037038" x="34.11999999999989" y="118" as="geometry" />
+        </mxCell>
+        <mxCell id="SxAFQLdds2xngY_iQSWM-165" edge="1" parent="1" source="SxAFQLdds2xngY_iQSWM-161" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.115;entryY=0.004;entryDx=0;entryDy=0;fontSize=9;entryPerimeter=0;labelBackgroundColor=none;strokeColor=#432D57;fontColor=default;fillColor=#76608a;" target="SxAFQLdds2xngY_iQSWM-164">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SxAFQLdds2xngY_iQSWM-166" connectable="0" parent="SxAFQLdds2xngY_iQSWM-165" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=9;labelBackgroundColor=none;fontColor=#143642;" value="Yes" vertex="1">
+          <mxGeometry relative="1" x="-0.4147" y="-4" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SxAFQLdds2xngY_iQSWM-161" parent="1" style="rhombus;whiteSpace=wrap;html=1;fillColor=#76608a;strokeColor=#432D57;fontSize=9;labelBackgroundColor=none;fontColor=#ffffff;" value="&lt;font&gt;Career&lt;/font&gt;&lt;div&gt;&lt;font&gt;CaseType&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="40" width="80" x="867" y="1490" as="geometry" />
+        </mxCell>
+        <mxCell id="SxAFQLdds2xngY_iQSWM-164" parent="1" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;fontSize=9;labelBackgroundColor=none;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;" value="" vertex="1">
+          <mxGeometry height="260" width="820" x="867" y="1930" as="geometry" />
+        </mxCell>
+        <mxCell id="SxAFQLdds2xngY_iQSWM-169" connectable="0" parent="1" style="group;fontSize=9;labelBackgroundColor=none;fontColor=#143642;" value="" vertex="1">
+          <mxGeometry height="120" width="186.11000000000013" x="877" y="1940" as="geometry" />
+        </mxCell>
+        <mxCell id="SxAFQLdds2xngY_iQSWM-167" parent="SxAFQLdds2xngY_iQSWM-169" style="rounded=0;whiteSpace=wrap;html=1;fontSize=9;labelBackgroundColor=none;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;" value="&lt;font&gt;Retrieve key details from the latest record, including student interests, skills, parent intent, email ID, admission number, and academic details.&lt;/font&gt;" vertex="1">
+          <mxGeometry height="80" width="186.11" as="geometry" />
+        </mxCell>
+        <mxCell id="SxAFQLdds2xngY_iQSWM-168" parent="SxAFQLdds2xngY_iQSWM-169" style="text;html=1;whiteSpace=wrap;strokeColor=#36393d;fillColor=#eeeeee;align=center;verticalAlign=middle;rounded=0;fontSize=9;labelBackgroundColor=none;" value="&lt;font&gt;&lt;span&gt;Student Profile Intake Stage&lt;/span&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="40" width="117.87037037037038" x="34.120000000000005" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="SxAFQLdds2xngY_iQSWM-171" edge="1" parent="1" source="SxAFQLdds2xngY_iQSWM-167" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=9;labelBackgroundColor=none;strokeColor=#A8201A;fontColor=default;" target="SxAFQLdds2xngY_iQSWM-170" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SxAFQLdds2xngY_iQSWM-173" connectable="0" parent="1" style="group;fontSize=9;labelBackgroundColor=none;fontColor=#143642;" value="" vertex="1">
+          <mxGeometry height="120" width="186.11000000000013" x="1107" y="1940" as="geometry" />
+        </mxCell>
+        <mxCell id="SxAFQLdds2xngY_iQSWM-170" parent="SxAFQLdds2xngY_iQSWM-173" style="rounded=0;whiteSpace=wrap;html=1;fontSize=9;labelBackgroundColor=none;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;" value="&lt;font&gt;Run the Student Profile Intelligence Agent to generate the Student Intelligence Profile as a JSON object from the previous step outputs.&lt;/font&gt;" vertex="1">
+          <mxGeometry height="60" width="186.11" as="geometry" />
+        </mxCell>
+        <mxCell id="SxAFQLdds2xngY_iQSWM-172" parent="SxAFQLdds2xngY_iQSWM-173" style="text;html=1;whiteSpace=wrap;strokeColor=#36393d;fillColor=#eeeeee;align=center;verticalAlign=middle;rounded=0;fontSize=9;labelBackgroundColor=none;" value="&lt;font&gt;&lt;span&gt;Student Intelligence Discovery&amp;nbsp;Stage&lt;/span&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="40" width="117.87037037037038" x="34.11999999999989" y="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SxAFQLdds2xngY_iQSWM-175" edge="1" parent="1" source="SxAFQLdds2xngY_iQSWM-170" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=9;labelBackgroundColor=none;strokeColor=#A8201A;fontColor=default;" target="SxAFQLdds2xngY_iQSWM-174" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SxAFQLdds2xngY_iQSWM-177" connectable="0" parent="1" style="group;fontSize=9;labelBackgroundColor=none;fontColor=#143642;" value="" vertex="1">
+          <mxGeometry height="220" width="186.11000000000013" x="1487" y="1940" as="geometry" />
+        </mxCell>
+        <mxCell id="SxAFQLdds2xngY_iQSWM-174" parent="SxAFQLdds2xngY_iQSWM-177" style="rounded=0;whiteSpace=wrap;html=1;fontSize=9;labelBackgroundColor=none;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;" value="&lt;font&gt;Three expert agents define the student&#39;s career path, skill gaps, and learning roadmap. The Career Path Generator Agent creates career recommendations, the Skill Gap Agent identifies skill gaps, and the Learning Roadmap Agent generates a personalized learning roadmap using the outputs of the previous agents&lt;/font&gt;" vertex="1">
+          <mxGeometry height="130" width="186.11" as="geometry" />
+        </mxCell>
+        <mxCell id="SxAFQLdds2xngY_iQSWM-176" parent="SxAFQLdds2xngY_iQSWM-177" style="text;html=1;whiteSpace=wrap;strokeColor=#36393d;fillColor=#eeeeee;align=center;verticalAlign=middle;rounded=0;fontSize=9;labelBackgroundColor=none;" value="&lt;span&gt;Career Planning &amp;amp; Gap Analysis Stage&lt;/span&gt;" vertex="1">
+          <mxGeometry height="40" width="117.87037037037038" x="34.11999999999989" y="130" as="geometry" />
+        </mxCell>
+        <mxCell id="SxAFQLdds2xngY_iQSWM-180" connectable="0" parent="1" style="group;fontSize=9;labelBackgroundColor=none;fontColor=#143642;" value="" vertex="1">
+          <mxGeometry height="110" width="357.87037037037044" x="1017" y="2070" as="geometry" />
+        </mxCell>
+        <mxCell id="SxAFQLdds2xngY_iQSWM-178" parent="SxAFQLdds2xngY_iQSWM-180" style="rounded=0;whiteSpace=wrap;html=1;fontSize=9;labelBackgroundColor=none;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;" value="&lt;font&gt;Final Recommendation Agent consolidates the outputs of all previous agents to generate personalized recommendations. The Report Generator Agent creates the report and email content, and the Send Email RPA workflow delivers the report to the parent or student.&lt;/font&gt;" vertex="1">
+          <mxGeometry height="110" width="276.11" as="geometry" />
+        </mxCell>
+        <mxCell id="SxAFQLdds2xngY_iQSWM-179" parent="SxAFQLdds2xngY_iQSWM-180" style="text;html=1;whiteSpace=wrap;strokeColor=#36393d;fillColor=#eeeeee;align=center;verticalAlign=middle;rounded=0;rotation=-90;fontSize=9;labelBackgroundColor=none;" value="&lt;span&gt;Career Planning &amp;amp; Gap Analysis&amp;nbsp;Stage&lt;/span&gt;" vertex="1">
+          <mxGeometry height="40" width="117.87037037037038" x="240" y="35" as="geometry" />
+        </mxCell>
+        <mxCell id="SxAFQLdds2xngY_iQSWM-181" edge="1" parent="1" source="SxAFQLdds2xngY_iQSWM-174" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;fontSize=9;labelBackgroundColor=none;strokeColor=#A8201A;fontColor=default;" target="SxAFQLdds2xngY_iQSWM-179">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
