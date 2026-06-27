@@ -31,6 +31,6 @@ Schools and parents often rely on disconnected systems and manual observations, 
 
 **We leveraged both Coded Agents and Low-Code Agents to combine the flexibility of custom development with the speed of low-code automation.**
 
-**Step-by-step setup instructions:**
+**Step-by-step setup instructions:** https://github.com/mjworks757/hackathon26_138/blob/main/GuardianSphere%20%E2%80%93%20Setup%20%26%20Runbook.docx
 
 **Demo video link:**
