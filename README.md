@@ -21,12 +21,13 @@ Schools and parents often rely on disconnected systems and manual observations, 
 1. UiPath Maestro Case Management
 2. Agent Builder
 3. Integration Services
-4. Data Fabric
-5. UiPath Orchestrator
-6. RPA Workflows​
-7. UiPath Studio Web
-8. UiPath Maestro BPMN (Condition Basis)
-9. UiPath Coded Agents
+4. UiPath APIs: We used UiPath APIs to connect the Streamlit application with UiPath Entities for seamless data integration.
+5. Data Fabric
+6. UiPath Orchestrator
+7. RPA Workflows​
+8. UiPath Studio Web
+9. UiPath Maestro BPMN (Condition Basis)
+10. UiPath Coded Agents
 
 **We leveraged both Coded Agents and Low-Code Agents to combine the flexibility of custom development with the speed of low-code automation.**
 
