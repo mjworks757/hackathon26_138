@@ -34,4 +34,4 @@ Schools and parents often rely on disconnected systems and manual observations, 
 
 **Step-by-step setup instructions:** https://github.com/mjworks757/hackathon26_138/blob/main/GuardianSphere%20%E2%80%93%20Setup%20%26%20Runbook.docx
 
-**Demo video link:**
+**Demo video link:** https://youtu.be/y1Bn9jIKVEk?si=0SNGl6dhU8i7yVFa
