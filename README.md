@@ -11,11 +11,12 @@ Schools and parents often rely on disconnected systems and manual observations, 
 1. **Early Risk Detection** for academic, emotional, and personal wellbeing concerns.
 2. **Wellness Assessment & Support** to identify emotional wellbeing issues and recommend timely interventions.
 3. **AI-Powered Career Guidance** based on student interests, strengths, skills, and academic performance.
-4. **Digital Safety Monitoring** to identify potential online risks and promote safe digital habits.
+4. **Digital Safety Monitoring** to identify potential online risks, identify anything that is troubling the child in online world and promote safe digital habits.
 5. **Personalized Learning & Skill Development** recommendations tailored to each student.
 6. **Case Management & Automated Workflows** using UiPath Maestro, Agent Builder, and Data Fabric.
 7. **Actionable Dashboards & Reports** for parents, teachers, and counselors.
 8. **Automated Notifications** via Email and WhatsApp for timely communication and proactive intervention.
+9. We also developed a dedicated **Yoga Agent** using a **UiPath Coded Agent** that runs daily to deliver a personalized wellness tip of the day to students and parents, encouraging healthy habits and overall wellbeing.
 
 **UiPath components used**
 1. UiPath Maestro Case Management
@@ -26,7 +27,7 @@ Schools and parents often rely on disconnected systems and manual observations, 
 6. UiPath Orchestrator
 7. RPA Workflows​
 8. UiPath Studio Web
-9. UiPath Maestro BPMN (Condition Basis)
+9. UiPath Maestro BPMN (Condition Basis - Hybrid Solution)
 10. UiPath Coded Agents
 
 **We leveraged both Coded Agents and Low-Code Agents to combine the flexibility of custom development with the speed of low-code automation.**
