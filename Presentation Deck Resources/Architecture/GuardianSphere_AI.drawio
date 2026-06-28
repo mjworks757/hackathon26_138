@@ -1,0 +1,291 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 Edg/149.0.0.0">
+  <diagram name="Page-1" id="7xLOlwYuKxBDFlGQoeZZ">
+    <mxGraphModel dx="1032" dy="556" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="pboUPxhn2e-p1PuPumlf-42" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=11;labelBackgroundColor=none;strokeColor=#A8201A;fontColor=default;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="379.125" y="1467" as="sourcePoint" />
+            <mxPoint x="379.1428571428571" y="1467" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pboUPxhn2e-p1PuPumlf-82" parent="1" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;dashPattern=12 12;fillColor=#ffe6cc;strokeColor=#d79b00;glass=1;shadow=0;sketch=1;curveFitting=1;jiggle=2;align=left;fontSize=11;" value="&lt;b&gt;We also built a Yoga Agent&amp;nbsp;&lt;/b&gt;&lt;div&gt;&lt;b&gt;using a Coded Agent that&amp;nbsp;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;runs daily to provide a&amp;nbsp;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;wellness tip of the day.&lt;/b&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="145" x="461" y="1660" as="geometry" />
+        </mxCell>
+        <mxCell id="pboUPxhn2e-p1PuPumlf-84" connectable="0" parent="1" style="group;fontSize=11;fillColor=none;strokeColor=none;labelBackgroundColor=none;fontColor=#143642;imageAspect=0;rounded=0;" value="" vertex="1">
+          <mxGeometry height="800" width="1600" x="770" y="1050" as="geometry" />
+        </mxCell>
+        <mxCell id="pboUPxhn2e-p1PuPumlf-85" parent="pboUPxhn2e-p1PuPumlf-84" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=12 12;fontSize=11;labelBackgroundColor=none;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;" value="" vertex="1">
+          <mxGeometry height="220" width="1210" y="-20" as="geometry" />
+        </mxCell>
+        <mxCell id="pboUPxhn2e-p1PuPumlf-89" parent="pboUPxhn2e-p1PuPumlf-84" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=none;verticalAlign=top;aspect=fixed;imageAspect=0;image=data:image/png,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;fontSize=11;align=center;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;" value="Student Reports Entity" vertex="1">
+          <mxGeometry height="25" width="46.93" x="151.5383333333333" y="130" as="geometry" />
+        </mxCell>
+        <mxCell id="pboUPxhn2e-p1PuPumlf-91" connectable="0" parent="pboUPxhn2e-p1PuPumlf-84" style="group;fontSize=11;labelBackgroundColor=none;fontColor=#143642;" value="" vertex="1">
+          <mxGeometry height="100" width="170" x="90" as="geometry" />
+        </mxCell>
+        <mxCell id="pboUPxhn2e-p1PuPumlf-92" parent="pboUPxhn2e-p1PuPumlf-91" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;labelBackgroundColor=none;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;" value="&lt;span&gt;Retrieve email from Parent/Student with subject starting with &quot;Evaluation Report&quot; and download attached PDF&lt;/span&gt;" vertex="1">
+          <mxGeometry height="66.66666666666667" width="170" as="geometry" />
+        </mxCell>
+        <mxCell id="pboUPxhn2e-p1PuPumlf-93" parent="pboUPxhn2e-p1PuPumlf-91" style="text;html=1;whiteSpace=wrap;strokeColor=#36393d;fillColor=#eeeeee;align=center;verticalAlign=middle;rounded=0;fontSize=11;labelBackgroundColor=none;" value="&lt;font&gt;Wellness AI Fetch Stage&lt;/font&gt;" vertex="1">
+          <mxGeometry height="33.333333333333336" width="107.66666666666667" x="31.166666666666664" y="66.66666666666667" as="geometry" />
+        </mxCell>
+        <mxCell id="pboUPxhn2e-p1PuPumlf-94" connectable="0" parent="pboUPxhn2e-p1PuPumlf-84" style="group;fontSize=11;labelBackgroundColor=none;fontColor=#143642;" value="" vertex="1">
+          <mxGeometry height="102.5" width="180" x="289.94" y="-3" as="geometry" />
+        </mxCell>
+        <mxCell id="pboUPxhn2e-p1PuPumlf-95" parent="pboUPxhn2e-p1PuPumlf-94" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;labelBackgroundColor=none;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;" value="&lt;font&gt;Use the Student Report Card Evaluator Agent to summarize student performance and extract attendance and academic percentage.&lt;/font&gt;" vertex="1">
+          <mxGeometry height="75" width="180" as="geometry" />
+        </mxCell>
+        <mxCell id="pboUPxhn2e-p1PuPumlf-96" parent="pboUPxhn2e-p1PuPumlf-94" style="text;html=1;whiteSpace=wrap;strokeColor=#36393d;fillColor=#eeeeee;align=center;verticalAlign=middle;rounded=0;fontSize=11;labelBackgroundColor=none;" value="&lt;font&gt;Extract Information Stage&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="114.00000000000003" x="33.00000000000001" y="75" as="geometry" />
+        </mxCell>
+        <mxCell id="pboUPxhn2e-p1PuPumlf-97" connectable="0" parent="pboUPxhn2e-p1PuPumlf-84" style="group;fontSize=11;labelBackgroundColor=none;fontColor=#143642;" value="" vertex="1">
+          <mxGeometry height="137.5" width="210.06" x="509.94000000000005" y="-17.75" as="geometry" />
+        </mxCell>
+        <mxCell id="pboUPxhn2e-p1PuPumlf-98" parent="pboUPxhn2e-p1PuPumlf-97" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;labelBackgroundColor=none;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;" value="&lt;div class=&quot;qMYqUG_convSearchResultHighlightRoot&quot;&gt;&lt;div class=&quot;&quot; data-turn-id-container=&quot;request-WEB:103101d7-546f-45bd-a846-0f679412f3bb-21&quot; data-is-intersecting=&quot;true&quot;&gt;&lt;section class=&quot;text-token-text-primary w-full focus:outline-none has-data-writing-block:pointer-events-none [&amp;amp;:has([data-writing-block])&amp;gt;*]:pointer-events-auto R6Vx5W_threadScrollVars scroll-mb-[calc(var(--scroll-root-safe-area-inset-bottom,0px)+var(--thread-response-height))] scroll-mt-[calc(var(--header-height)+min(200px,max(70px,20svh)))]&quot; dir=&quot;auto&quot; data-turn-id=&quot;request-WEB:103101d7-546f-45bd-a846-0f679412f3bb-21&quot; data-turn-id-container=&quot;request-WEB:103101d7-546f-45bd-a846-0f679412f3bb-21&quot; data-testid=&quot;conversation-turn-44&quot; data-turn=&quot;assistant&quot;&gt;&lt;div class=&quot;text-base my-auto mx-auto pb-10 [--thread-content-margin:var(--thread-content-margin-xs,calc(var(--spacing)*4))] @w-sm/main:[--thread-content-margin:var(--thread-content-margin-sm,calc(var(--spacing)*6))] @w-lg/main:[--thread-content-margin:var(--thread-content-margin-lg,calc(var(--spacing)*16))] px-(--thread-content-margin)&quot;&gt;&lt;div data-conversation-screenshot-content=&quot;&quot; class=&quot;[--thread-content-max-width:40rem] @w-lg/main:[--thread-content-max-width:48rem] mx-auto max-w-(--thread-content-max-width) flex-1 group/turn-messages focus-visible:outline-hidden relative flex w-full min-w-0 flex-col agent-turn&quot;&gt;&lt;div class=&quot;flex max-w-full flex-col gap-4 grow&quot;&gt;&lt;div data-message-author-role=&quot;assistant&quot; data-message-id=&quot;162dbbc5-d82e-471e-a539-59380b0dc908&quot; dir=&quot;auto&quot; data-message-model-slug=&quot;gpt-5-5&quot; class=&quot;min-h-8 text-message relative flex w-full flex-col items-end gap-2 text-start break-words whitespace-normal outline-none keyboard-focused:focus-ring [.text-message+&amp;amp;]:mt-1&quot; data-turn-start-message=&quot;true&quot; tabindex=&quot;0&quot;&gt;&lt;div class=&quot;flex w-full flex-col gap-1 empty:hidden&quot;&gt;&lt;div class=&quot;markdown prose dark:prose-invert wrap-break-word w-full light markdown-new-styling&quot;&gt;&lt;p data-start=&quot;0&quot; data-end=&quot;222&quot; data-is-last-node=&quot;&quot; data-is-only-node=&quot;&quot; class=&quot;PDq2pG_selectionAnchorContainer&quot;&gt;&lt;span data-start=&quot;0&quot; data-end=&quot;222&quot; data-is-last-node=&quot;&quot; data-is-only-node=&quot;&quot;&gt;If academic or attendance % is below 40%, send a WhatsApp questionnaire to parent/student. Upon receiving completed questionnaire, Generate Summary &amp;amp; Analysis Agent creates a student wellness summary.&lt;/span&gt;&lt;span aria-hidden=&quot;true&quot; class=&quot;PDq2pG_selectionAnchor&quot;&gt;&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;z-0 flex min-h-[46px] justify-start&quot;&gt;&lt;/div&gt;&lt;div class=&quot;mt-3 w-full empty:hidden&quot;&gt;&lt;div class=&quot;text-center&quot;&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/section&gt;&lt;/div&gt;&lt;/div&gt;&lt;div aria-hidden=&quot;true&quot; class=&quot;pointer-events-none -mt-px h-px translate-y-[calc(var(--scroll-root-safe-area-inset-bottom)-14*var(--spacing))]&quot;&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="102.0618556701031" width="210.06" as="geometry" />
+        </mxCell>
+        <mxCell id="pboUPxhn2e-p1PuPumlf-99" parent="pboUPxhn2e-p1PuPumlf-97" style="text;html=1;whiteSpace=wrap;strokeColor=#36393d;fillColor=#eeeeee;align=center;verticalAlign=middle;rounded=0;fontSize=11;labelBackgroundColor=none;" value="&lt;font&gt;Notification Stage&lt;/font&gt;" vertex="1">
+          <mxGeometry height="21.26288659793815" width="133.03799999999998" x="38.511" y="102.0604548211037" as="geometry" />
+        </mxCell>
+        <mxCell id="pboUPxhn2e-p1PuPumlf-100" parent="pboUPxhn2e-p1PuPumlf-84" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=none;verticalAlign=top;aspect=fixed;imageAspect=0;image=data:image/png,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;fontSize=11;align=center;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;" value="Student Performance Details &#xa;Entity" vertex="1">
+          <mxGeometry height="30" width="56.31" x="811.782962962963" y="131" as="geometry" />
+        </mxCell>
+        <mxCell id="pboUPxhn2e-p1PuPumlf-106" connectable="0" parent="pboUPxhn2e-p1PuPumlf-84" style="group;fontSize=11;labelBackgroundColor=none;fontColor=#143642;" value="" vertex="1">
+          <mxGeometry height="119.5" width="230.06" x="957.94" y="-11" as="geometry" />
+        </mxCell>
+        <mxCell id="pboUPxhn2e-p1PuPumlf-107" parent="pboUPxhn2e-p1PuPumlf-106" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;labelBackgroundColor=none;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;" value="&lt;font&gt;If the Wellness Summary is &quot;NA&quot;, generate and email the report using the Top Performer Report Agent. Otherwise, use the Low Performer Report Agent to generate and email a personalized report to the parent/student.&lt;/font&gt;" vertex="1">
+          <mxGeometry height="85.35714285714285" width="230.06" as="geometry" />
+        </mxCell>
+        <mxCell id="pboUPxhn2e-p1PuPumlf-108" parent="pboUPxhn2e-p1PuPumlf-106" style="text;html=1;whiteSpace=wrap;strokeColor=#36393d;fillColor=#eeeeee;align=center;verticalAlign=middle;rounded=0;fontSize=11;labelBackgroundColor=none;" value="&lt;font&gt;Generate and Send Report Stage&lt;/font&gt;" vertex="1">
+          <mxGeometry height="34.14285714285714" width="145.70466666666667" x="42.17467887445888" y="85.35714285714285" as="geometry" />
+        </mxCell>
+        <mxCell id="pboUPxhn2e-p1PuPumlf-168" edge="1" parent="pboUPxhn2e-p1PuPumlf-84" source="pboUPxhn2e-p1PuPumlf-92" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=11;" target="pboUPxhn2e-p1PuPumlf-95">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pboUPxhn2e-p1PuPumlf-169" edge="1" parent="pboUPxhn2e-p1PuPumlf-84" source="pboUPxhn2e-p1PuPumlf-95" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=11;" target="pboUPxhn2e-p1PuPumlf-98">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pboUPxhn2e-p1PuPumlf-101" connectable="0" parent="pboUPxhn2e-p1PuPumlf-84" style="group;fontSize=11;labelBackgroundColor=none;fontColor=#143642;" value="" vertex="1">
+          <mxGeometry height="120" width="160" x="759.94" y="-12" as="geometry" />
+        </mxCell>
+        <mxCell id="pboUPxhn2e-p1PuPumlf-102" parent="pboUPxhn2e-p1PuPumlf-101" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;labelBackgroundColor=none;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;" value="&lt;font&gt;Use Student Report Card Evaluator Agent to summarize student performance &amp;amp; extract attendance and academic percentage.&lt;/font&gt;" vertex="1">
+          <mxGeometry height="87.8048780487805" width="160" as="geometry" />
+        </mxCell>
+        <mxCell id="pboUPxhn2e-p1PuPumlf-103" parent="pboUPxhn2e-p1PuPumlf-101" style="text;html=1;whiteSpace=wrap;strokeColor=#36393d;fillColor=#eeeeee;align=center;verticalAlign=middle;rounded=0;fontSize=11;labelBackgroundColor=none;" value="&lt;font&gt;Update Entities Stage&lt;/font&gt;" vertex="1">
+          <mxGeometry height="35.1219512195122" width="101.33333333333334" x="29.333333333333336" y="87.8048780487805" as="geometry" />
+        </mxCell>
+        <mxCell id="pboUPxhn2e-p1PuPumlf-167" edge="1" parent="pboUPxhn2e-p1PuPumlf-84" source="pboUPxhn2e-p1PuPumlf-102" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=11;" target="pboUPxhn2e-p1PuPumlf-107">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pboUPxhn2e-p1PuPumlf-172" edge="1" parent="pboUPxhn2e-p1PuPumlf-84" source="pboUPxhn2e-p1PuPumlf-98" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=11;" target="pboUPxhn2e-p1PuPumlf-102">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pboUPxhn2e-p1PuPumlf-173" edge="1" parent="pboUPxhn2e-p1PuPumlf-84" source="pboUPxhn2e-p1PuPumlf-103" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=11;" target="pboUPxhn2e-p1PuPumlf-100">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pboUPxhn2e-p1PuPumlf-175" edge="1" parent="pboUPxhn2e-p1PuPumlf-84" source="pboUPxhn2e-p1PuPumlf-93" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=11;" target="pboUPxhn2e-p1PuPumlf-89">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pboUPxhn2e-p1PuPumlf-176" parent="pboUPxhn2e-p1PuPumlf-84" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=11;" value="&lt;font style=&quot;color: rgb(20, 54, 66); white-space: nowrap;&quot;&gt;Create Student Record if&amp;nbsp;&lt;/font&gt;&lt;div style=&quot;color: rgb(20, 54, 66); white-space: nowrap;&quot;&gt;Email Address Does&amp;nbsp;&lt;/div&gt;&lt;div style=&quot;color: rgb(20, 54, 66); white-space: nowrap;&quot;&gt;Not Exist&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="50.00000000000006" y="110" as="geometry" />
+        </mxCell>
+        <mxCell id="pboUPxhn2e-p1PuPumlf-126" connectable="0" parent="pboUPxhn2e-p1PuPumlf-84" style="group;fontSize=11;labelBackgroundColor=none;fontColor=#143642;" value="" vertex="1">
+          <mxGeometry height="440" width="1211.63" x="-1.63" y="230" as="geometry" />
+        </mxCell>
+        <mxCell id="pboUPxhn2e-p1PuPumlf-127" parent="pboUPxhn2e-p1PuPumlf-126" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=12 12;fontSize=11;labelBackgroundColor=none;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;fillStyle=auto;imageAspect=0;" value="" vertex="1">
+          <mxGeometry height="270" width="1211.63" y="-22" as="geometry" />
+        </mxCell>
+        <mxCell id="pboUPxhn2e-p1PuPumlf-128" connectable="0" parent="pboUPxhn2e-p1PuPumlf-126" style="group;fontSize=11;labelBackgroundColor=none;fontColor=#143642;" value="" vertex="1">
+          <mxGeometry height="170" width="197.56" x="71.57000000000001" y="-2" as="geometry" />
+        </mxCell>
+        <mxCell id="pboUPxhn2e-p1PuPumlf-129" parent="pboUPxhn2e-p1PuPumlf-128" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;labelBackgroundColor=none;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;" value="&lt;span data-teams=&quot;true&quot;&gt;&lt;font&gt;&lt;b&gt;Includes two tasks:&lt;/b&gt;&lt;br&gt;First, a workflow which fetch all the relevant info from data fabric and also the attachment which user has uploaded&lt;br&gt;&lt;br&gt; Secondly, an Agent that reads the attachment and extract key details from the attachment such as if it has any concerning info or not.&lt;/font&gt;&lt;/span&gt;" vertex="1">
+          <mxGeometry height="136" width="197.56000000000003" as="geometry" />
+        </mxCell>
+        <mxCell id="pboUPxhn2e-p1PuPumlf-130" parent="pboUPxhn2e-p1PuPumlf-128" style="text;html=1;whiteSpace=wrap;strokeColor=#36393d;fillColor=#eeeeee;align=center;verticalAlign=middle;rounded=0;fontSize=11;labelBackgroundColor=none;" value="&lt;font&gt;&lt;span data-teams=&quot;true&quot;&gt;Intake&lt;/span&gt;&amp;nbsp;Stage&lt;/font&gt;" vertex="1">
+          <mxGeometry height="34" width="125.12133333333334" x="36.21933333333334" y="136" as="geometry" />
+        </mxCell>
+        <mxCell id="pboUPxhn2e-p1PuPumlf-131" edge="1" parent="pboUPxhn2e-p1PuPumlf-126" source="pboUPxhn2e-p1PuPumlf-129" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=11;labelBackgroundColor=none;strokeColor=#A8201A;fontColor=default;" target="pboUPxhn2e-p1PuPumlf-133" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pboUPxhn2e-p1PuPumlf-132" connectable="0" parent="pboUPxhn2e-p1PuPumlf-126" style="group;fontSize=11;labelBackgroundColor=none;fontColor=#143642;" value="" vertex="1">
+          <mxGeometry height="200" width="229.4" x="305.57000000000005" y="-14" as="geometry" />
+        </mxCell>
+        <mxCell id="pboUPxhn2e-p1PuPumlf-133" parent="pboUPxhn2e-p1PuPumlf-132" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;labelBackgroundColor=none;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;" value="&lt;span data-teams=&quot;true&quot;&gt;&lt;font&gt;&lt;b&gt;Includes two tasks:&lt;/b&gt;&lt;br&gt;&lt;span data-teams=&quot;true&quot;&gt;Digital safety agent which analyse the input details and give a very structured output such as risk score, the action required and if the case needs to be escalated to NGOs/higher authority or if just parents needs to be made aware about the findings.&lt;br&gt;    The output of the agent goes to Action center for human review via UiPath Apps.&amp;nbsp;&lt;br&gt;    Based on the risk score it either goes in &#39;High Risk Path&#39; or &#39;Low Risk Path&#39;&lt;/span&gt;&lt;/font&gt;&lt;/span&gt;" vertex="1">
+          <mxGeometry height="160" width="229.4" as="geometry" />
+        </mxCell>
+        <mxCell id="pboUPxhn2e-p1PuPumlf-134" parent="pboUPxhn2e-p1PuPumlf-132" style="text;html=1;whiteSpace=wrap;strokeColor=#36393d;fillColor=#eeeeee;align=center;verticalAlign=middle;rounded=0;fontSize=11;labelBackgroundColor=none;" value="&lt;font&gt;&lt;span data-teams=&quot;true&quot;&gt;AI investigation&amp;nbsp;&lt;/span&gt;Stage&lt;/font&gt;" vertex="1">
+          <mxGeometry height="40" width="90.80416666666667" x="69.29791666666667" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="pboUPxhn2e-p1PuPumlf-136" connectable="0" parent="pboUPxhn2e-p1PuPumlf-126" style="group;fontSize=11;labelBackgroundColor=none;fontColor=#143642;" value="" vertex="1">
+          <mxGeometry height="88" width="438.43" x="581.57" y="-2" as="geometry" />
+        </mxCell>
+        <mxCell id="pboUPxhn2e-p1PuPumlf-137" parent="pboUPxhn2e-p1PuPumlf-136" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;labelBackgroundColor=none;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;" value="&lt;span data-teams=&quot;true&quot;&gt;&lt;font&gt;The &#39;High risk path&#39; is a UiPath app in Action center which provides details to a specialized reviewer who can review the AI agent&#39;s findings and can make some changes in the existing findings and need to add their own remarks and then choose to either &#39;submit&#39;, &#39;approve&#39; or &#39;escalate&#39;. &#39;submit&#39; which will send a mail to just the user whereas &#39;escalate&#39; will send mail to user as well as concerned authorities.&lt;/font&gt;&lt;/span&gt;" vertex="1">
+          <mxGeometry height="88" width="367.33003129543374" as="geometry" />
+        </mxCell>
+        <mxCell id="pboUPxhn2e-p1PuPumlf-138" parent="pboUPxhn2e-p1PuPumlf-136" style="text;html=1;whiteSpace=wrap;strokeColor=#36393d;fillColor=#eeeeee;align=center;verticalAlign=middle;rounded=0;rotation=-90;fontSize=11;labelBackgroundColor=none;" value="&lt;font&gt;&lt;span data-teams=&quot;true&quot;&gt;Human Review&amp;nbsp;&lt;/span&gt;Stage&lt;/font&gt;" vertex="1">
+          <mxGeometry height="40" width="96.65101352849854" x="339.7789864715014" y="24.420000000000016" as="geometry" />
+        </mxCell>
+        <mxCell id="pboUPxhn2e-p1PuPumlf-140" parent="pboUPxhn2e-p1PuPumlf-126" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FAE5C7;fontColor=#143642;strokeColor=#0F8B8D;fontSize=11;labelBackgroundColor=none;" value="&lt;span data-teams=&quot;true&quot;&gt;&lt;font&gt;The &#39;Low risk path&#39; is a UiPath app in Action center which provides details to a reviewer who can review the AI agent&#39;s findings and can add their own remarks and then choose to either &#39;submit&#39; which will send a mail to just the user or &#39;escalate&#39; which will send mail to user as well as concerned authorities.&lt;/font&gt;&lt;/span&gt;" vertex="1">
+          <mxGeometry height="68" width="368.43" x="581.57" y="128" as="geometry" />
+        </mxCell>
+        <mxCell id="pboUPxhn2e-p1PuPumlf-141" parent="pboUPxhn2e-p1PuPumlf-126" style="text;html=1;whiteSpace=wrap;strokeColor=#36393d;fillColor=#eeeeee;align=center;verticalAlign=middle;rounded=0;rotation=-90;fontSize=11;labelBackgroundColor=none;" value="&lt;font&gt;&lt;span data-teams=&quot;true&quot;&gt;Low Risk Path&lt;/span&gt;&lt;/font&gt;&lt;div&gt;&lt;font&gt;&lt;b&gt;&lt;span data-teams=&quot;true&quot;&gt;Secondary&amp;nbsp;&lt;/span&gt;Stage&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="40" width="112.44" x="914.4588059701491" y="142" as="geometry" />
+        </mxCell>
+        <mxCell id="pboUPxhn2e-p1PuPumlf-178" edge="1" parent="pboUPxhn2e-p1PuPumlf-126" source="pboUPxhn2e-p1PuPumlf-133" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;dashed=1;dashPattern=8 8;fontSize=11;" target="pboUPxhn2e-p1PuPumlf-137" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="751.57" y="168" as="sourcePoint" />
+            <mxPoint x="801.57" y="118" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pboUPxhn2e-p1PuPumlf-179" edge="1" parent="pboUPxhn2e-p1PuPumlf-126" source="pboUPxhn2e-p1PuPumlf-133" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;dashed=1;dashPattern=8 8;fontSize=11;" target="pboUPxhn2e-p1PuPumlf-140" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="751.57" y="168" as="sourcePoint" />
+            <mxPoint x="801.57" y="118" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pboUPxhn2e-p1PuPumlf-143" connectable="0" parent="pboUPxhn2e-p1PuPumlf-126" style="group;fontSize=11;labelBackgroundColor=none;fontColor=#143642;" value="" vertex="1">
+          <mxGeometry height="158" width="160.06" x="1041.5700000000002" y="-2" as="geometry" />
+        </mxCell>
+        <mxCell id="pboUPxhn2e-p1PuPumlf-144" parent="pboUPxhn2e-p1PuPumlf-143" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;labelBackgroundColor=none;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;" value="&lt;span data-teams=&quot;true&quot;&gt;&lt;font&gt;Final stage here the emails goes out to the interested parties or concerned authorities based on the action taken by the Human reviewer in the previous step&lt;/font&gt;&lt;/span&gt;" vertex="1">
+          <mxGeometry height="118" width="160.06" as="geometry" />
+        </mxCell>
+        <mxCell id="pboUPxhn2e-p1PuPumlf-145" parent="pboUPxhn2e-p1PuPumlf-143" style="text;html=1;whiteSpace=wrap;strokeColor=#36393d;fillColor=#eeeeee;align=center;verticalAlign=middle;rounded=0;fontSize=11;labelBackgroundColor=none;" value="&lt;font&gt;&lt;span data-teams=&quot;true&quot;&gt;Resolution&amp;nbsp;&lt;/span&gt;Stage&lt;/font&gt;" vertex="1">
+          <mxGeometry height="40" width="101.37193853893656" x="29.344189995164054" y="118" as="geometry" />
+        </mxCell>
+        <mxCell id="pboUPxhn2e-p1PuPumlf-180" edge="1" parent="pboUPxhn2e-p1PuPumlf-126" source="pboUPxhn2e-p1PuPumlf-138" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;dashed=1;dashPattern=8 8;fontSize=11;" target="pboUPxhn2e-p1PuPumlf-144" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="581.57" y="118" as="sourcePoint" />
+            <mxPoint x="631.57" y="68" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pboUPxhn2e-p1PuPumlf-181" edge="1" parent="pboUPxhn2e-p1PuPumlf-126" source="pboUPxhn2e-p1PuPumlf-141" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;dashed=1;dashPattern=8 8;fontSize=11;" target="pboUPxhn2e-p1PuPumlf-144" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="581.57" y="118" as="sourcePoint" />
+            <mxPoint x="631.57" y="68" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pboUPxhn2e-p1PuPumlf-66" parent="pboUPxhn2e-p1PuPumlf-84" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;fontSize=11;labelBackgroundColor=none;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;" value="" vertex="1">
+          <mxGeometry height="200" width="1211.63" x="-1.63" y="488" as="geometry" />
+        </mxCell>
+        <mxCell id="pboUPxhn2e-p1PuPumlf-71" connectable="0" parent="pboUPxhn2e-p1PuPumlf-84" style="group;fontSize=11;labelBackgroundColor=none;fontColor=#143642;" value="" vertex="1">
+          <mxGeometry height="160" width="241.17" x="218.28" y="510" as="geometry" />
+        </mxCell>
+        <mxCell id="pboUPxhn2e-p1PuPumlf-154" connectable="0" parent="pboUPxhn2e-p1PuPumlf-71" style="group;fontSize=11;labelBackgroundColor=none;fontColor=#143642;" value="" vertex="1">
+          <mxGeometry height="155" width="161.64" x="79.53" y="5" as="geometry" />
+        </mxCell>
+        <mxCell id="pboUPxhn2e-p1PuPumlf-155" parent="pboUPxhn2e-p1PuPumlf-154" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;labelBackgroundColor=none;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;" value="&lt;font&gt;Run the Student Profile Intelligence Agent to generate the Student Intelligence Profile as a JSON object from the previous step outputs.&lt;/font&gt;" vertex="1">
+          <mxGeometry height="77.5" width="161.6399999999999" y="-1" as="geometry" />
+        </mxCell>
+        <mxCell id="pboUPxhn2e-p1PuPumlf-156" parent="pboUPxhn2e-p1PuPumlf-154" style="text;html=1;whiteSpace=wrap;strokeColor=#36393d;fillColor=#eeeeee;align=center;verticalAlign=middle;rounded=0;fontSize=11;labelBackgroundColor=none;" value="&lt;font&gt;&lt;span&gt;Student Intelligence Discovery&amp;nbsp;Stage&lt;/span&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="51.66666666666666" width="102.37261117976819" x="29.633855246896882" y="77.5" as="geometry" />
+        </mxCell>
+        <mxCell id="pboUPxhn2e-p1PuPumlf-75" connectable="0" parent="pboUPxhn2e-p1PuPumlf-84" style="group;fontSize=11;labelBackgroundColor=none;fontColor=#143642;" value="" vertex="1">
+          <mxGeometry height="242" width="186.11" x="512" y="488" as="geometry" />
+        </mxCell>
+        <mxCell id="pboUPxhn2e-p1PuPumlf-76" parent="pboUPxhn2e-p1PuPumlf-75" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;labelBackgroundColor=none;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;" value="&lt;font&gt;Three expert agents define the student&#39;s career path, skill gaps, and learning roadmap. The Career Path Generator Agent creates career recommendations, the Skill Gap Agent identifies skill gaps, and the Learning Roadmap Agent generates a personalized learning roadmap using the outputs of the previous agents&lt;/font&gt;" vertex="1">
+          <mxGeometry height="142.99999999999997" width="186.1099999999999" as="geometry" />
+        </mxCell>
+        <mxCell id="pboUPxhn2e-p1PuPumlf-77" parent="pboUPxhn2e-p1PuPumlf-75" style="text;html=1;whiteSpace=wrap;strokeColor=#36393d;fillColor=#eeeeee;align=center;verticalAlign=middle;rounded=0;fontSize=11;labelBackgroundColor=none;" value="&lt;span&gt;Career Planning &amp;amp; Gap Analysis Stage&lt;/span&gt;" vertex="1">
+          <mxGeometry height="44" width="117.8703703703703" x="34.11999999999987" y="142.99999999999997" as="geometry" />
+        </mxCell>
+        <mxCell id="pboUPxhn2e-p1PuPumlf-150" connectable="0" parent="pboUPxhn2e-p1PuPumlf-84" style="group;fontSize=11;labelBackgroundColor=none;fontColor=#143642;" value="" vertex="1">
+          <mxGeometry height="120" width="186.11000000000013" x="70.00000000000011" y="513" as="geometry" />
+        </mxCell>
+        <mxCell id="pboUPxhn2e-p1PuPumlf-151" parent="pboUPxhn2e-p1PuPumlf-150" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;labelBackgroundColor=none;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;" value="&lt;font&gt;Retrieve key details from the latest record, including student interests, skills, parent intent, email ID, admission number, and academic details.&lt;/font&gt;" vertex="1">
+          <mxGeometry height="80" width="186.11" as="geometry" />
+        </mxCell>
+        <mxCell id="pboUPxhn2e-p1PuPumlf-152" parent="pboUPxhn2e-p1PuPumlf-150" style="text;html=1;whiteSpace=wrap;strokeColor=#36393d;fillColor=#eeeeee;align=center;verticalAlign=middle;rounded=0;fontSize=11;labelBackgroundColor=none;" value="&lt;font&gt;&lt;span&gt;Student Profile Intake Stage&lt;/span&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="40" width="117.87037037037038" x="34.120000000000005" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="pboUPxhn2e-p1PuPumlf-161" connectable="0" parent="pboUPxhn2e-p1PuPumlf-84" style="group;fontSize=11;labelBackgroundColor=none;fontColor=#143642;" value="" vertex="1">
+          <mxGeometry height="110" width="357.87037037037044" x="750.0000000000002" y="488" as="geometry" />
+        </mxCell>
+        <mxCell id="pboUPxhn2e-p1PuPumlf-162" parent="pboUPxhn2e-p1PuPumlf-161" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;labelBackgroundColor=none;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;" value="&lt;font&gt;Final Recommendation Agent consolidates the outputs of all previous agents to generate personalized recommendations. The Report Generator Agent creates the report and email content, and the Send Email RPA workflow delivers the report to the parent or student.&lt;/font&gt;" vertex="1">
+          <mxGeometry height="110" width="276.11" as="geometry" />
+        </mxCell>
+        <mxCell id="pboUPxhn2e-p1PuPumlf-183" edge="1" parent="pboUPxhn2e-p1PuPumlf-84" source="pboUPxhn2e-p1PuPumlf-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.994;exitY=0.425;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitPerimeter=0;fontSize=11;" target="pboUPxhn2e-p1PuPumlf-162">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="716.1100000000001" y="543" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pboUPxhn2e-p1PuPumlf-186" edge="1" parent="pboUPxhn2e-p1PuPumlf-84" source="pboUPxhn2e-p1PuPumlf-151" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=11;" target="pboUPxhn2e-p1PuPumlf-155">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pboUPxhn2e-p1PuPumlf-187" edge="1" parent="pboUPxhn2e-p1PuPumlf-84" source="pboUPxhn2e-p1PuPumlf-155" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=11;" target="pboUPxhn2e-p1PuPumlf-76">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pboUPxhn2e-p1PuPumlf-163" parent="pboUPxhn2e-p1PuPumlf-84" style="text;html=1;whiteSpace=wrap;strokeColor=#36393d;fillColor=#eeeeee;align=center;verticalAlign=middle;rounded=0;rotation=0;fontSize=11;labelBackgroundColor=none;" value="&lt;span&gt;Career Planning &amp;amp; Gap Analysis&amp;nbsp;Stage&lt;/span&gt;" vertex="1">
+          <mxGeometry height="40" width="117.87037037037038" x="840.0000000000002" y="598" as="geometry" />
+        </mxCell>
+        <mxCell id="pboUPxhn2e-p1PuPumlf-110" edge="1" parent="1" source="pboUPxhn2e-p1PuPumlf-112" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=11;labelBackgroundColor=none;strokeColor=#A8201A;fontColor=default;" target="pboUPxhn2e-p1PuPumlf-118">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pboUPxhn2e-p1PuPumlf-112" parent="1" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=none;verticalAlign=top;aspect=fixed;imageAspect=0;image=data:image/png,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;fontSize=11;align=center;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;labelPosition=center;" value="Case Management &#xa;Entity" vertex="1">
+          <mxGeometry height="30" width="56.31" x="494.41999999999996" y="1232" as="geometry" />
+        </mxCell>
+        <mxCell id="pboUPxhn2e-p1PuPumlf-213" edge="1" parent="1" source="pboUPxhn2e-p1PuPumlf-115" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="pboUPxhn2e-p1PuPumlf-112">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pboUPxhn2e-p1PuPumlf-115" parent="1" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/home_page.svg;fontSize=11;labelBackgroundColor=none;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;labelPosition=center;verticalLabelPosition=top;verticalAlign=bottom;" value="&lt;font&gt;Parent, Child &amp;amp;&amp;nbsp;&lt;/font&gt;&lt;div&gt;&lt;font&gt;Teacher Concerns Form&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="45" width="50" x="497.58" y="1116" as="geometry" />
+        </mxCell>
+        <mxCell id="pboUPxhn2e-p1PuPumlf-189" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=11;" target="pboUPxhn2e-p1PuPumlf-127">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="593.1599999999999" y="1394.5" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pboUPxhn2e-p1PuPumlf-195" connectable="0" parent="pboUPxhn2e-p1PuPumlf-189" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=11;" value="&lt;b&gt;SAFETY&lt;/b&gt;" vertex="1">
+          <mxGeometry relative="1" x="0.0803" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pboUPxhn2e-p1PuPumlf-208" edge="1" parent="1" source="pboUPxhn2e-p1PuPumlf-118" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="pboUPxhn2e-p1PuPumlf-85">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="620" y="1394" />
+              <mxPoint x="620" y="1140" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pboUPxhn2e-p1PuPumlf-209" connectable="0" parent="pboUPxhn2e-p1PuPumlf-208" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="&lt;b&gt;WELLNESS&lt;/b&gt;" vertex="1">
+          <mxGeometry relative="1" x="0.6428" y="1" as="geometry">
+            <mxPoint x="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pboUPxhn2e-p1PuPumlf-210" edge="1" parent="1" source="pboUPxhn2e-p1PuPumlf-118" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="pboUPxhn2e-p1PuPumlf-66">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="620" y="1394" />
+              <mxPoint x="620" y="1638" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pboUPxhn2e-p1PuPumlf-211" connectable="0" parent="pboUPxhn2e-p1PuPumlf-210" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="&lt;b&gt;CAREER&lt;/b&gt;" vertex="1">
+          <mxGeometry relative="1" x="0.6132" y="-1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pboUPxhn2e-p1PuPumlf-118" parent="1" style="rhombus;whiteSpace=wrap;html=1;fillColor=#008a00;strokeColor=#005700;fontSize=11;labelBackgroundColor=none;fontColor=#ffffff;" value="&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(255, 255, 255), rgb(18, 18, 18));&quot;&gt;CaseType&lt;/span&gt;" vertex="1">
+          <mxGeometry height="80" width="143.16" x="451" y="1354.5" as="geometry" />
+        </mxCell>
+        <mxCell id="pboUPxhn2e-p1PuPumlf-125" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=11;labelBackgroundColor=none;strokeColor=#A8201A;fontColor=default;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="379.125" y="1467" as="sourcePoint" />
+            <mxPoint x="379.1428571428571" y="1467" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pboUPxhn2e-p1PuPumlf-166" parent="1" style="verticalLabelPosition=bottom;aspect=fixed;html=1;shape=mxgraph.salesforce.bots;fillColor=none;strokeColor=none;fontSize=11;" value="" vertex="1">
+          <mxGeometry height="79" width="83.16" x="490.92" y="1590" as="geometry" />
+        </mxCell>
+        <mxCell id="pboUPxhn2e-p1PuPumlf-192" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=11;" value="Call UiPath Case Plan" vertex="1">
+          <mxGeometry height="30" width="70" x="524.16" y="1310" as="geometry" />
+        </mxCell>
+        <mxCell id="pboUPxhn2e-p1PuPumlf-193" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=11;" value="Record&lt;div&gt;Inserted&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="79" x="511" y="1171" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
