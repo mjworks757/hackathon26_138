@@ -1,5 +1,3 @@
-**UiPath AgentHack 2026**
-
 **Project Name:** GuardianSphere
 
 **Project Description:** GuardianSphere is an AI-powered child wellbeing platform that helps parents, teachers, and counselors proactively support children's academic, emotional, career, and digital safety needs. Built using UiPath Agentic Automation, it provides intelligent insights, personalized recommendations, and early intervention to help every child learn, grow, and thrive.
@@ -18,7 +16,7 @@ Schools and parents often rely on disconnected systems and manual observations, 
 8. **Automated Notifications** via Email and WhatsApp for timely communication and proactive intervention.
 9. We also developed a dedicated **Yoga Agent** using a **UiPath Coded Agent** that runs daily to deliver a personalized wellness tip of the day to students and parents, encouraging healthy habits and overall wellbeing.
 
-**UiPath components used**
+**UiPath components**
 1. UiPath Maestro Case Management
 2. Agent Builder
 3. Integration Services
@@ -30,7 +28,7 @@ Schools and parents often rely on disconnected systems and manual observations, 
 9. UiPath Maestro BPMN (Condition Basis - Hybrid Solution)
 10. UiPath Coded Agents
 
-**We leveraged both Coded Agents and Low-Code Agents to combine the flexibility of custom development with the speed of low-code automation.**
+**Agent Type: We leveraged both Coded Agents and Low-Code Agents to combine the flexibility of custom development with the speed of low-code automation.**
 
 **Step-by-step setup instructions:** https://github.com/mjworks757/hackathon26_138/blob/main/GuardianSphere%20%E2%80%93%20Setup%20%26%20Runbook.docx
 
